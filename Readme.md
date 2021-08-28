@@ -1,6 +1,6 @@
 # Phork Lift
 
-![Phorkie](/Images/Phork.png)
+![Phorkie](https://github.com/JShull/PhorkWebGL/blob/main/Images/Phork.PNG)
 
 >This is a creation by [Bratislav Cvijetic](https://twitter.com/BaToART) and [John Shull](https://twitter.com/TheJohnnyFuzz)
 
